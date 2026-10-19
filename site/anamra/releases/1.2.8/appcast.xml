@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Anamra Updates</title>
+    <link>https://downloads.responsay.com/anamra/appcast.xml</link>
+    <description>Anamra Sparkle update feed.</description>
+    <language>zh-CN</language>
+    <item>
+      <title>Version 1.2.8</title>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 04 Sep 2026 02:46:55 +0800</pubDate>
+      <sparkle:releaseNotesLink>https://downloads.responsay.com/anamra/releases/1.2.8/1.2.8.html</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://downloads.responsay.com/anamra/releases/1.2.8/Anamra-1.2.8.dmg"
+        sparkle:edSignature="JI/DL3zleUWBwZmJpRags5i72U+dZmvcV32QDN81oh9rhrlGRR3sKzD2nXMz6jiKGBfHopAD4wlPARXYVkjfBw=="
+        sparkle:length="16469236"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>

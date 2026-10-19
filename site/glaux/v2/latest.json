@@ -1,0 +1,66 @@
+{
+  "assets": [
+    {
+      "name": "Glaux-Translator_2.5.2_aarch64.dmg",
+      "sha256": "cf345c6ea923d9b18a1e3d0caabfbc4e078fdd8505f5208a6274e4fbb5ef3737",
+      "size": 276910947
+    },
+    {
+      "name": "Glaux-Launcher_2.5.2_aarch64.app.tar.gz",
+      "sha256": "b36649078a084ec19b28167ed3e42456f7e555e5150521dd9c038c67f44e04aa",
+      "size": 294813365
+    },
+    {
+      "name": "Glaux-Launcher_2.5.2_aarch64.app.tar.gz.sig",
+      "sha256": "80032de18388053d472ca7aa5bcdad000b7689e422b3a48d724c85409188f4d3",
+      "size": 416
+    },
+    {
+      "name": "glaux-latest.json",
+      "sha256": "0fc365889076900737ca62f431f404482fc2fe8b68c7d0be12778601906e5e97",
+      "size": 3923
+    },
+    {
+      "name": "RELEASE_NOTES.md",
+      "sha256": "760e0d368be47b6568ceb835cf20ae333548969bc031b7698fb53befa73aff2f",
+      "size": 3197
+    },
+    {
+      "name": "Glaux-Translator_2.5.2_source.tar.gz",
+      "sha256": "f73a85b315ef9765dc8d5783b4a8a0363d73387072b935b3353328d7864c1abc",
+      "size": 19281808
+    },
+    {
+      "name": "Glaux-Translator_2.5.2_source.tar.gz.sha256",
+      "sha256": "93648c75f1e5b8d61439efe771cd75a666c6625198ac411e82ce88480658fbac",
+      "size": 103
+    },
+    {
+      "name": "GLAUX-SBOM.spdx.json",
+      "sha256": "53edabd34e2e40978965977397270dbba5e0ee67f55bd01ad8be19ed78f8614c",
+      "size": 1534053
+    },
+    {
+      "name": "GLAUX-PROVENANCE.json",
+      "sha256": "59394f8e9e5d9cd6b9202fc42ecfcd2ee46b69128e65dbe5e2f2f1d18b6b0698",
+      "size": 1630
+    },
+    {
+      "name": "GLAUX-SHA256SUMS",
+      "sha256": "e93797a7ee819fb3c3af03fc3e8cee790b17edd1990b0d8454942f6315b7ace5",
+      "size": 872
+    }
+  ],
+  "cohortId": "e548d74e747946d24a69964b236647a30498b77424d8fb260df5d3b9f9dfb98d",
+  "createdAt": "2026-08-29T15:31:04Z",
+  "license": {
+    "nonCodeContent": "CC-BY-NC-SA-4.0 unless otherwise stated",
+    "projectCode": "GPL-3.0-only",
+    "thirdPartyNotices": "THIRD_PARTY_NOTICES.md"
+  },
+  "product": "Glaux Translator",
+  "revision": "9d24700a3f7cd904cc112d37a3b13559acde6a19",
+  "schemaVersion": 1,
+  "tag": "v2.5.2",
+  "version": "2.5.2"
+}

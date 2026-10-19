@@ -1,0 +1,65 @@
+# Glaux Translator 2.5.1
+
+## ZH
+
+Glaux Translator 2.5.1 是 2.4.1 的后继发布，重点修复持久状态安全，并完善本地书籍的导入、恢复与出版质量流程。2.5.0 虽已保留 annotated tag，且曾完成 App/DMG 签名与公证，但因 clean-release 构建缺少 KaTeX packaged runtime 而未生成授权 cohort，也未发布到 R2；2.5.1 包含该修复。
+
+### 状态与升级安全
+
+- 修复 Book Pipeline v9 状态与正式版 2.4.1 所支持的 v8 状态发生版本身份冲突的问题。2.5.1 明确支持 `book-pipeline-state-v9`；未知 Schema 仍会安全失败，不会被静默接受。
+- candidate App、exact-App、自动化和开发构建使用独立的 `launcher-dev` 状态根；只有正式 production 构建使用 `launcher` 状态根。candidate App 不加载或写入正式任务状态；验证器仅读取正式 `jobs.json` 的文件 identity 与 SHA-256，以证明其未改变。
+- 新增持久化版本 Gate：只要 Book Pipeline state 或 job Schema 相对最新正式版本发生变化，Launcher 就必须提升版本；package、Tauri、Launcher 与更新清单的版本源也必须一致。
+- 保留现有有效 v9 `jobs.json` 及其中的任务，不执行迁移、删除或重写。本版本不增加 v8→v9 兼容层；2.5.1 直接读取现有 v9 状态并继续既有流程。
+
+### 书架与来源身份
+
+- 单独拖入 PDF 时保持该文件的精确路径与内容身份，只创建一本书；显式拖入文件夹时仍按文件夹批量处理。
+- 等价的重复或并发入队会复用同一个活动任务，避免双击或重试产生重复书籍。
+- 启动校验既有任务期间显示明确的书架加载状态，不再短暂显示空书架或允许创建、重试、迁移和移除任务。
+- 会减少书架任务的操作保留一份可验证的上一版状态，并提供明确的撤销/恢复入口；恢复只做 reconciliation，不重跑已经完成的 OCR 或抽取。
+
+### 出版结构与质量
+
+- EPUB、文本 PDF、PaddleOCR 和 MinerU 统一通过 Publication Evidence 接口保留页码、块、来源与结构溯源。可恢复的标题或分页不确定性作为 warning 继续出版，用户可选择校正并只重建受影响的下游阶段。
+- 在构建 EPUB/PDF 前校验可出版的书名与作者；优先使用 Zotero、EPUB 或 PDF 权威元数据，仍缺失时可原地校正并继续既有任务。
+- 修复跨文档脚注回收到正文后遗留空 Notes spine 的问题，同时保留 noteref、footnote、backlink 与源锚点。
+- 原始 OCR LaTeX 不再穿透到最终 EPUB：可解释的数学结构转为语义标记，歧义表达式形成可定位且阻止 promotion 的校正异常。
+- 当规范化实现变化时，可从已登记的 provider artifact 仅重放规范化和受影响的下游阶段；不会再次调用远程 OCR，也不会重建或替换仍然有效的可搜索 PDF。
+
+### 发布验证
+
+- clean-release bundle preparation 现在会按 lockfile 安装 OCR 生产依赖，并严格要求 `katex@0.18.4` 后再打包；缺失依赖、安装失败或版本漂移都会安全失败，避免再次生成缺少 KaTeX runtime 的公证 App。
+- 发布 Gate 使用隐私安全的合成 EPUB、文本 PDF 与扫描 PDF，分别校验终态、产物角色、SHA-256 绑定、包有效性和结构可读性；真实阅读器验收仍是独立、可选且按产物哈希绑定的证据。
+- 发布资产合同要求对应源码与二进制产物按版本固定，并提供 SHA-256、SBOM 与 provenance；这些要求须在正式发布阶段验证。本版本仍只支持 macOS Apple Silicon。
+
+## EN
+
+Glaux Translator 2.5.1 is the successor release to 2.4.1. It focuses on persistent-state safety and improves local-book import, recovery, and publication quality. Although the annotated 2.5.0 tag remains preserved and an App/DMG signing and notarization attempt completed, that build produced no authorized cohort and was not published to R2 because its clean-release bundle lacked the packaged KaTeX runtime. Version 2.5.1 includes that fix.
+
+### State and upgrade safety
+
+- Fixes the version-identity conflict between Book Pipeline v9 state and the v8 state supported by the production 2.4.1 app. Version 2.5.1 explicitly supports `book-pipeline-state-v9`; unknown schemas still fail closed instead of being accepted silently.
+- The candidate App, exact-App, automation, and development builds use the separate `launcher-dev` state root. Only a formal production build uses `launcher`. The candidate App does not load or write production job state; the verifier only reads the production `jobs.json` file identity and SHA-256 to prove that it remains unchanged.
+- Adds a persistent-version gate: a change to the Book Pipeline state or job schema relative to the latest formal release requires a higher Launcher version. Package, Tauri, Launcher, and update-manifest version sources must also agree.
+- Preserves the existing valid v9 `jobs.json` and its jobs without migration, deletion, or rewriting. This release adds no v8-to-v9 compatibility layer; 2.5.1 reads the existing v9 state directly and continues the established workflow.
+
+### Shelf and source identity
+
+- Dropping one PDF preserves that exact file path and content identity and creates exactly one book. Explicit folder drops remain batch imports.
+- Equivalent repeated or concurrent enqueue requests reuse the same active job, preventing duplicate books from double-clicks or retries.
+- Startup now shows an explicit shelf-verification state while existing jobs are checked, instead of briefly presenting an empty shelf or allowing create, retry, migration, and removal actions.
+- Operations that reduce shelf membership retain one validated previous state and provide an explicit undo/recovery path. Recovery reconciles existing evidence without rerunning completed OCR or extraction.
+
+### Publication structure and quality
+
+- EPUB, text PDF, PaddleOCR, and MinerU now share one Publication Evidence interface that preserves page, block, source, and structure traceability. Recoverable heading or pagination uncertainty continues as a warning; optional corrections rebuild only affected downstream stages.
+- Publication-ready title and author metadata are checked before EPUB/PDF construction. Zotero, EPUB, or PDF authority is preferred, and missing fields can be corrected in place before the existing job continues.
+- Fixes an empty Notes spine left behind after cross-document footnotes are recovered into their referring chapter, while preserving noteref, footnote, backlink, and source-anchor traceability.
+- Raw OCR LaTeX no longer reaches the final EPUB. Interpretable mathematics becomes semantic markup, while ambiguous expressions produce a locatable correction anomaly that blocks promotion.
+- When normalization changes, registered provider artifacts can replay normalization and only the affected downstream stages. Remote OCR is not called again, and a still-valid searchable PDF is neither rebuilt nor replaced.
+
+### Release verification
+
+- Clean-release bundle preparation now installs the locked OCR production dependencies and requires exactly `katex@0.18.4` before packaging. A missing dependency, failed install, or version drift fails closed instead of producing another notarized App without the KaTeX runtime.
+- The release gate uses privacy-safe synthetic EPUB, text-PDF, and scanned-PDF inputs to verify terminal state, artifact roles, SHA-256 bindings, package validity, and structural readability separately. Real-reader acceptance remains independent, optional, and bound to exact artifact hashes.
+- The release asset contract requires corresponding source and binary artifacts to be version-pinned and accompanied by SHA-256 checksums, an SBOM, and provenance; these requirements must be verified during the formal release. This release remains macOS Apple Silicon only.

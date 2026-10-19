@@ -1,0 +1,9 @@
+/*
+  X-Content-Type-Options: nosniff
+/*.xml
+  Content-Type: application/xml; charset=utf-8
+  Cache-Control: public, max-age=0, must-revalidate
+/*.json
+  Cache-Control: public, max-age=0, must-revalidate
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate

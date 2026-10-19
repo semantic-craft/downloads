@@ -1,0 +1,51 @@
+{
+  "appTreeSha256": "6bfa539420d89c3ee990489c96b57d15ef4bbd8614f79ce668cf254033572d14",
+  "buildType": "responsay-macos-developer-id-notarized",
+  "builder": {
+    "id": "maintainer-mac-local-release"
+  },
+  "createdAt": "2026-08-29T15:31:04Z",
+  "platform": "macos-aarch64",
+  "product": "Glaux Translator",
+  "revision": "9d24700a3f7cd904cc112d37a3b13559acde6a19",
+  "schemaVersion": 1,
+  "subjects": [
+    {
+      "name": "Glaux-Translator_2.5.2_aarch64.dmg",
+      "sha256": "cf345c6ea923d9b18a1e3d0caabfbc4e078fdd8505f5208a6274e4fbb5ef3737",
+      "size": 276910947
+    },
+    {
+      "name": "Glaux-Launcher_2.5.2_aarch64.app.tar.gz",
+      "sha256": "b36649078a084ec19b28167ed3e42456f7e555e5150521dd9c038c67f44e04aa",
+      "size": 294813365
+    },
+    {
+      "name": "Glaux-Launcher_2.5.2_aarch64.app.tar.gz.sig",
+      "sha256": "80032de18388053d472ca7aa5bcdad000b7689e422b3a48d724c85409188f4d3",
+      "size": 416
+    },
+    {
+      "name": "glaux-latest.json",
+      "sha256": "0fc365889076900737ca62f431f404482fc2fe8b68c7d0be12778601906e5e97",
+      "size": 3923
+    },
+    {
+      "name": "RELEASE_NOTES.md",
+      "sha256": "760e0d368be47b6568ceb835cf20ae333548969bc031b7698fb53befa73aff2f",
+      "size": 3197
+    },
+    {
+      "name": "Glaux-Translator_2.5.2_source.tar.gz",
+      "sha256": "f73a85b315ef9765dc8d5783b4a8a0363d73387072b935b3353328d7864c1abc",
+      "size": 19281808
+    },
+    {
+      "name": "Glaux-Translator_2.5.2_source.tar.gz.sha256",
+      "sha256": "93648c75f1e5b8d61439efe771cd75a666c6625198ac411e82ce88480658fbac",
+      "size": 103
+    }
+  ],
+  "tag": "v2.5.2",
+  "version": "2.5.2"
+}
