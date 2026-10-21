@@ -3,49 +3,49 @@
     "app": {
       "base": "outputRoot",
       "path": "Build/Products/Release/Owltype.app",
-      "sha256": "2d991f28bccb88601be7070f32bae81bc9c3da78eab52fb6ba18541743016871",
+      "sha256": "64a75e3e23a1c336d6c137117fd4fac38a0efb20b131a5f3c82d6d4e15bcc86f",
       "state": "stapled"
     },
     "dmg": {
       "base": "repository",
-      "path": "package/Owltype-2.0.17.dmg",
-      "sha256": "768da5e3df1d237e30eedef4f6c39f7f9373c275c73234d0a94fea17806167b1",
+      "path": "package/Owltype-2.0.18.dmg",
+      "sha256": "dd236193a065467d6ce944b9271fac85f0a691cb3e5fe0334e245d46072b53e1",
       "state": "stapled"
     },
     "installer-pkg": {
       "base": "repository",
       "path": "package/Owltype.pkg",
-      "sha256": "a864519f335b5e4b927552a38bb61106d8a838016235ab91d9ead61dfc225a01",
+      "sha256": "5ac4199fc472914c441179bbba2002fe7f859c03d96ea54e0ec9174535deec14",
       "state": "stapled"
     },
     "update-pkg": {
       "base": "repository",
       "path": "package/Owltype-update.pkg",
-      "sha256": "5c0ee33a9009c3d3718dbafa4b8e8587328230935a301f55cbc4f48cbb2906e8",
+      "sha256": "a0d915826e8d83448da941f0739711a324880390e6cfca7c3ecaceed45665a1b",
       "state": "stapled"
     }
   },
-  "buildAppSha256": "704deb87b2ac666ed5bbc9557edd7b9ad42997b308a7446a470d419274c6b6e1",
-  "buildVersion": "2.0.17",
-  "cohortId": "a25f4793cd35b2d3984f53cbebe4031a7c919854611bbe0b922c0f9eb711eaba",
-  "inventorySha256": "108e0cf2452b0d8061b8b87727207c2b99f84f287507ce64e38084acc7d8c4f1",
-  "outputRootSha256": "88e5a9d54544e91bca79cdd89ab1c0b0515681fc740f0edefa1e216c16db31e4",
+  "buildAppSha256": "dc5a5be56ac840f48376f8bfdc8e19ab04821bdb463b82a9fea4a9c27ec6aa2c",
+  "buildVersion": "2.0.18",
+  "cohortId": "b689ab51bdc0aa346565ad68cfcf482f71efe88c3aae18cd00927f73bcbd342c",
+  "inventorySha256": "2f0b63fc63ac7d57e9374db23dbbe4d5aee4897e6306230c78a47ff4aac6f89a",
+  "outputRootSha256": "3d776df7adc5885471fcd535da4c40e30ff89c79c28df7aba0f59d9c97e703d0",
   "outputs": {
     "appcast": {
       "base": "repository",
       "path": "package/appcast.xml",
-      "sha256": "5d93de8f3bec6d28c1d19eb65b83a613b46d9e4a791636d1b91c3931cee7b545"
+      "sha256": "0166927eab78bdfd9fd422d8aa7c25dcbef47bcc122a754f912a14bbda060342"
     },
     "source-archive": {
       "base": "outputRoot",
-      "path": "release/Owltype-macOS-2.0.17-source.tar.gz",
-      "sha256": "a35e5bffde6b8f77843a1f5e34f4c8590884c1a9093c95be4550afd6b82ead78"
+      "path": "release/Owltype-macOS-2.0.18-source.tar.gz",
+      "sha256": "caa19ae2a7b5a87ffe172723caf0e47580f479ada8d2f6d203595c0a4e09be6e"
     }
   },
-  "revision": "855b158b12d53417660efede3f6a26606d8b5d09",
+  "revision": "85a1f778f5210c8881ab2b207ef9811482a8de4a",
   "schemaVersion": 4,
   "seedSha256": "caa5fcb2821a8969ef134250c1b71f716cd77c5247427e05e4679d54e94134ba",
-  "sourceSha256": "cb667f53b0a364b786885063bb698b84c25f1f28be36f1242b0bc45e9dc970bb",
+  "sourceSha256": "3486ad75a7a7b9b1666ac8ab0826d641462578265d2d5ec65ea5689cb25a6175",
   "sparkleFeedMode": "successor",
   "sparkleSigningPublicKey": "AyX1IlXNOqRparvq+MKIsNOPRdq8qoB+nZH6JavAlQM=",
   "status": "complete",
@@ -63,5 +63,5 @@
     "librime/deps/yaml-cpp": "2f86d13775d119edbb69af52e5f566fd65c6953b",
     "plum": "b1be1969f914cc005add4090631b855db00c2591"
   },
-  "version": "2.0.17"
+  "version": "2.0.18"
 }
