@@ -1,0 +1,3065 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "creationInfo": {
+    "created": "2026-10-21T09:10:48Z",
+    "creators": [
+      "Tool: owltype-finalize-release-bundle"
+    ]
+  },
+  "dataLicense": "CC0-1.0",
+  "documentNamespace": "https://responsay.com/owltype/releases/2.0.19/spdx/6c43cd7c7775549cecec2d6bc70009bccbb275a9",
+  "files": [
+    {
+      "SPDXID": "SPDXRef-File-9f7f911d12138836224405b6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85ae7d544fbbbb3cf5b5743e336ca2694b22e066c919d15d8b2100e1a5a98650"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/CodeResources",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b09550de5537af0e0170ab8a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ec6717fd092e1418bc1632091c3c4c59444163690e56bf25391a7281f23f3e9"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Autoupdate",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-28e8982eb4ea5f0b769fa580",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2729bdcab2aefc175147302f16be7f951f82f3b80f86b0f05dfaa3c887b560dc"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Sparkle",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-1e3b9c21f834e6686b806f31",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5ec6717fd092e1418bc1632091c3c4c59444163690e56bf25391a7281f23f3e9"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Autoupdate",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-ac2a0debed0195d26e346eeb",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bfb6b2fbfa3713d9d446d9da92de07f0cfe3290a2ec1b3a99bb1a61f3f570f05"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/Base.lproj/SUUpdateAlert.nib",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-e3bb2f11e5fd151f496ef9ba",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e9b77de1772dfcc20631d3dbef01314c118fb1932e1b8991bb6260531840cb51"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/Base.lproj/SUUpdatePermissionPrompt.nib",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f8841645424236d3cb29c065",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "699ea122c4d8ea60296f8c8bf02c6a307c345b5b13769ef5941a9c1014790139"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/Base.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-c03464e05cb5a0d59dfe0c20",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "295343d68df56e7b8cb8c339dad91ef5d138c3303447c4e20542e8396130c65f"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/Info.plist",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-e2948d8e9bb6bea95ed86c83",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8de57824cf58328ad7e21d2253b2633456128132f2d7d0d7893a1ac096e3e664"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/OwltypeSparkleBuild.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-62cb235999e83c2142732f9a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "76bd6999758fd8e51d17e6b482db434f9b4768c02b037af6bd2e3a000ce8cbc1"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ReleaseNotesColorStyle.css",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-0b83a699bb7e3db0268e4ab7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "79e7a648d5139506cbc2b8d7a42d607ea603ac42b4964eeb273f6bd0da9cec04"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/SUStatus.nib",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-92d1fc5be9609df4fb4b31ee",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "df79ce0496fa38f699b773ca4f689427745f17f739f430069adf53090567ef80"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ar.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-4957c82c56af620eb6b93867",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "92ee817536cdae44a6284770c8d035866a0a6d0dee46ff094782cae1c8ea8290"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ar.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-90b64af5bc0aaa382d3ef566",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb1f6d90a8e3dda387be07580965ccf3dba197255e35be28a9c01e9c9c626f02"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ar.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-7ae8eab79d4fc27a86b16055",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d7ca8bb1346725f8b4c037fa03ce576e231718e4529aea3d525dc82b89b982ad"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ca.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-bd09e9d8289c231da90346b3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "de21c7cdbdcfd43bd1e8a697a79f726eb8f52724a77ce80f6ce8a0388808edeb"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ca.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-0b336a59c578d25e4a95a934",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a92a039743c862ff8ead2c6d25f51893dc5e422866cdf6b101ff9e80acb0e32e"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/cs.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-cfea3026a14d925115710388",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a1b924d5cd446b075f1323c7aa8e5d748cec51c59f0a51546e0f3de738f7fc08"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/cs.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-78eb502e1851f4ed60fee5fa",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d8d9b43108f85a032e71a4ae11d963b932064bfa1c79712e5568b690382346ad"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/cs.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-56d85e219d35417a4bea72bd",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68a35c3da76b3677fbc2e626040c68473112f578715d11ccad6ffef4cb59050b"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/da.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-a92173c5f755e3c15a29debb",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6b7a62e800ea847ee7ce1728ceac7f12f19916c11925461182181fe28060f7f"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/da.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6bb0b169d0c86f2801e89067",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "04e522e4f7f251bfd944ce9664eb850b7e083a2738f973c990b8a40edc21648c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/da.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-697ff0f2bbfebc860d865478",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "03a2622c7e5ce145f68a86c03d73c7bfb4cb881227add1efb6faa79ec4c1c4b2"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/de.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-38aaacf5eacc1e19ef95dfd9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18f8d96e6d0400a7e3d022bb3dbd54213a395a80f33697f89b65c42df8f77a2a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/de.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-0713aa2f16d1f030e42984e5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5affa6a3c45fc688dea5813d19c05e63050dc9ca6a924f6aa3f063606c1bd3c3"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/de.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-299226644d2a1a5ed8538792",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bad0173bb6bc39de0809857747459005af27714437d127ebb990024eebf20f19"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/el.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6f2f93d0bcc0bb717b138f91",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57487bb573c92346f56741443317bb449227da858683d414845fdc452cfb6961"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/el.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-bb8c943ab438d095be57cac1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "065da80d99c3c1b8f9e6c4a9fcc3681e67126e2396e64c58d4e19c2f7939b1c6"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/el.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b58f804d068bb5527e5ce45b",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "101552f197c4209c464a084ed7b7a6c281d0a342d5596cc124c16cf11c2f2968"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/en.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-4cb2ccded17a90fb836b5ab8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30dd07793757231a802ea50c5282e756445c0dcbe70d7aa3b227d4d3bb55ddaf"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/en.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-faf37d81854f99f5df1f950e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0a4a69a564760488c194c1741157e643c6cd3b5e669e1f85c8608f9d8b5a27a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/es.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-7fae9a59800f208789031e6f",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "184b54b2b5435aa5f21c057c9563eb1145909b7d237adbce8c965d948ede8304"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/es.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-9d54796c78811cb6e3d234e5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "78f114b438d2e83058bf2762ce98ad62d465db61695571dc556340927894b108"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/es.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-50a549be40f0b13a942f6dfc",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "51ee0d4a570b40bf4e00eac3e486ee97545a23064e97abdc22fec3b1f7f340c0"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/fa.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-1edefff38e01b6d0ed30294d",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3be8dad0430a8f94713265b74d100b73d5d3a4c27b63b7705e6ef4e84df7ad40"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/fi.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-8e947c828a4e4c47d1e90088",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "31f8d50b4410d03c6fcfa46dd3712131a6a13391a1e6b86a31224512acd244ba"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/fi.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-1ea99f947869fa6ac3c58ee4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3bafacf3e18a197d3ac74f16075bf9dba8ce4a5df4304a0d9f38e160a7b8200d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/fi.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-2b93916128e1355f2a06027e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "02fc9ac71d781515eafc24c80efbc5eeec30e3649185880d49cf7ad21ecc09f7"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/fr.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-89ab5f497f130db7fb9232aa",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa536d9281fabc003ddffcb1a7c4ad6afef89b8ea0bca6fedd1dba403312b17b"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/fr.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-470a86e38ed105661dfc462b",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3b94e8ef3e1faedbe6d43eb3c05cf3eaba65795b626b6045ae8ddb1255f39c38"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/fr.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-5dd65c69d34e0c4b0482d155",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4a67ca1823552bd33ad4b08d1aa5a4e3f15922795c286d94f6e0f96a33d5a1bc"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/he.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-de844699be9376d44e2c3b66",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "75635b9fb9367c7618b4fb5ad56859d43be096ea5ac9721a4230582bff06edc4"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/he.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d9c7482110249bb1d8925838",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2fbb2144d81d6487dbb79cb9a62a0b108a3e03d23b56d808505a73a021640752"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/hr.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-ccd4f3c7d38c5383d2095d90",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e71e734425b359895b77b32451c6cfb39656ad64110d99e3decf4ad8b9ac9c1c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/hr.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-34f47c4a4ad297426d8a1682",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3668a9f4d801d35e140d8377c8eb26b0e15af43df0103d0be7a32f7b75885508"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/hr.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-11b2572ddbf6003fba03046c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f0b6ec59390c49ccc715ae1187d5d90d1a34b823b2ad5f555d4604884be71bb2"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/hu.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-978abcd34a327019251c590e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b701e2f095f2b316a8ecc9531abd7bf19a41f32cf59979228f65799fc3495924"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/hu.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-e386213ea54264dc156c3019",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d1406a8235e3b511b9d6511a70d68b4e636f8f968551e27ba28d49e16624ac2c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/hu.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-5273a4d74870d5a6368044cb",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d3843d3e9aadb98cfa91f5617fa788f57071267d0b401f4293f71e06ad73b465"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/is.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-26929e2e006a64363c98e99e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85e2baddd405ed826f7a1ace1109358deb2aeafddb401272da32fec398e33251"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/is.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-c76fea700fe8a12e3ae6602d",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e7fe00f87807fcf854010dcd5675113de88826c418272676f2c00e6e6c499555"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/is.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f6bd75df606161abe9a08400",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d73c64265a21a98b5225bd298fdddf25794f91e7589b622595b8a51910c5a3dd"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/it.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f8e5906a3a625c215c8c9995",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e3c86e111af71551989ae232471984047e0a1cb35884c7b8a58e7fafb9ee716"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/it.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-cce592f501579b58b88f2a2e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d86966d93c13efcc197def22a8183ccffa0282b9adceab619f33651ef1ede65b"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/it.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d7553d61e7fd0334e8ad8c9f",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fa0adccd278c44f57e3a1f05023f883eab6fb8e0b85a125d9277e1d1e35d1d63"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ja.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-e4c7828e8ba654d6afac10cd",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a46ff596fdf346921090896111dbcb1dc4ee3d6fc67c83ccf0500b1ecb5db797"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ja.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-079b077727dc80567406b852",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d9a7f06d3b5b57fc7d8931ecda52276a4b2224782196cf9eb22ecc4376c8ab74"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ja.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-2edbffb2a406636de4168580",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fec22bffd8a170b853c6973d086d19982ca1b48e65c479d1536018d99eca8e70"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ko.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3b8f7366d8cacc1e4780a8b8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "43a4496cecc50f3935ed0a463df51c88eaedba2b5179608196df2e7287d7d803"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ko.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-bf5ba70322a15e010a794b85",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e461c7ba7683bf476dcbb0a8811b3e8b70becd8dd291356445e0fdd218d17469"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ko.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-0e81edc8c3f4f8407b471141",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4506ca96f2c69d58e354c3f97871cd502bf990b265e0403accd19d0ca6ad6c7d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/nb.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-88cb67a1b7aaa6461add5283",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "17ce62500d9a1dbbe8db76748c9fd3fe9c09d873907580f9791c80a30f5c4a06"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/nb.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3166dc5d90b5adca8717c8dc",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eac974be52a844142dbc6bc2ee81b0b4703cfc1f9f35dc011b0376032212b174"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/nb.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b2a6a2f1143dccb0fd2e7331",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b69ddf63ca20bfec5c40e164cf90640cd4d91c8691ae11a04fdb8a7c28c307bd"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/nl.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-cce97621a34ad853dc51cd42",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62bc1cf444936b2668aafd895a6d270f520718b7808819dc3dcd8e79a573f09f"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/nl.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f86ffc45a7411fb730eab8b9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b418d605abccb5acaaa2897d246b3ec47e7a0362ae8bfedd4505f6ef11b68f1d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/nl.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-af73002f023fac38038f63fe",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8221d831a7fb0e404548ca1d67508bdc4b30c30187c8e9a4c518ed0cfe9b9a4f"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/nn.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-a89899456c836543cbb89a0a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57b55d79c2db4a8e6cafca4c554067b09d389e8d6d33c5d7b14fd21d15a986cf"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/nn.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-a76be146711be12af8880f78",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a2e37260652b172d95a987706674a7d5e99c1931a8c871aa6fc49bf428347169"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/nn.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-549e63994f266fa28dc597c8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a01dab18cfd23e724b76f854cf60897e6f134ba5e1ae19870f6805cab552abc5"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/pl.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-cb4231bd5d420307a982e2e9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b9b15f156686d9129781e191e0346dbdb6347c7f9234967305e6d23c2a3a2b97"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/pl.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-5b544569b538ba454d3f07f7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b072d3ddf18fa6aec1185802c090a5de09f63871e9546c0dcc567f987b82267"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/pl.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-26ae42ae1b7c22c0c25bd09b",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "843374e336c996247a291a84bf8944b8054d4e36e49b2614a4a8c26d629a29d5"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/pt-BR.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-64904da4d673caf16e984f0d",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e8dbca8fa1a6cc640b02c1810ba214bd10682d245f109b968bb662b684f2a139"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/pt-BR.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-7bae7f0f6c23620d048223f6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "29cc1a9bfc6ad15e95ccc0f8fab6d4ac3c80b6bb25d7ce89ea511ebb92b6a83e"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/pt-BR.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-037b7b3206d120f885399fc1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82da38ae26d661159997411ecfaffb5d983711eb04c4f9466f9373d58553bb31"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/pt-PT.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-06124d78314581f370b71231",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b2de3074da0b8e3e6c548147a83021ddc8d1161c61a7391c14fec02525e3624c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/pt-PT.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f79039325909c2524438f5ac",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "44b75b0787109e9b3693f72b172bc649c763986137292906e38f304db622e2f6"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/pt-PT.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-21b3d60fb4f3ec2cc2967581",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d9667b9e40d38b990b84b6410b873c619c6f8c0eeed1c9e39ac921d2a079985"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ro.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d4b9f0244aa45bc778c66372",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "22421a0c9fc78299c134d90ff8c17624649dfab360008fa8f5cd9a368afe7b0a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ro.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-36a5027b54bc316d05d9ff15",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c362f42a2eef86521af761c39034660c4c6609720690e5a297e44e5ebfba23e9"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ro.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b839790958122543ef997c1e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c1d88c98e71e938309bdd975bb63a871c583e7acc2bb694a0c651de346e731bf"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ru.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d8a7b464b87010979d75db08",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fee0116f021016ea4d399be5c9681e13bdb6180b0a72ee3f428a0b0041870814"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ru.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-95c49cb75eb45563072551ef",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "20d1cbf951d24ddd218d89945c73d2865de5e314c1e02dca7022e0567fc01c6c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/ru.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-260ae5385d3ac92db088e9b5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "14327f753c06e57df8045f650c3905546254c292de2a2d4c51b174ef69d86acb"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/sk.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f3879864342360c34f4e9216",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c5af943d7202fa8835229184e9b03ffb9d44dae47d646f8719628503cded4cd5"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/sk.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-1d172bf97b3a9d467503079d",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5662cb17ab49040fa3f6315bcb7055c7d19a803fffab1e044d1cb0a14ef53d54"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/sk.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-04ac8d41968a31ba1f619028",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "380abba2323a2bfc51e271442b53814e225e35a1ea81bf310a0cd9e58dcfed4a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/sl.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-db54ddc4fccf88ffc558d097",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8a4e24943010620313e61ade71491f8be2bfb6e1b2bce624f7ac69fb3f7c97be"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/sl.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-4ce206f9ffe18615b172725b",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "553b73a710a790f08ed720761af88ee8091a64528fa5c521e77d1d4dda857101"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/sl.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6afc1176173e9c05cf83491b",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2d85c4041ecc17cd8883932020cf694ed24901824be759f36336d55b591d4862"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/sv.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f7d1db2882179029f21044a7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5c339129ea472967c38a11553059ec84f5bfaa348b3cba14ff31ea2506d1a019"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/sv.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-e1f1d9c03f329ced1263009c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9e275285a7f904a5f5c109ed91779085c190a1653336055085f1d2338e065d53"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/sv.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-cd3b281dc032ebf19bc2a1aa",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "76f58ef6dd8d619f9c4287bff41dd389bf843ce74fa78c206ad1da55586ef204"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/th.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-718adb6ae00f87d7fefdde56",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9b108bf24e37ee291d529977a71d888bfd9f66a2fce71d459ffc5eee1d5823a1"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/th.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-7cfddb626531aec3bbec3eb9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be3e21ef5d38bee42a8acf4d5ef4a0ae040dcfd7335fa94c26a76f7a6e150949"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/th.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f8a032f079490aa0ac4b27ef",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2dbbae11f9ed18e2c40c3e71d20f571c9d02fda494935e25b587bb2ebf2d0574"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/tr.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-a1c414c7909fa04ff2b556b3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "70f582a1f304de185aab0e56f1bb475046b638cb86d605bf1904e75c44f4fe6d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/tr.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-342847b3154a855c59ea885e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e20bbefb7720ee6d771ae371b983676fcba0ef10b4b3f0782ad519e43f8031e7"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/tr.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-9cee6a82550679848efa9aff",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "951e833af164307a666ed5d024d135697b515e005b774b2254ca2ad350f87613"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/uk.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b5dc0e06c4ecec69a322af52",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f8ca6158c284cb686c22aae3ae825072afb1d66cad70d7999becf72effa597a0"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/uk.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-30d521e4cc1dd1d1b78c4d1d",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82fb8bcce2866a1a9242d0304826fd0ae04062e0d5c1f8fe970c12bff34fabcb"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/uk.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-87282f7546c1d840b95a795b",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "357100a0d00a723239181b46c587145e6b73fab3f4ea8709492565691fe59cc0"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/zh_CN.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d40531c60500f43432a34ddd",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f1ca3de8c24232e28dbda3c57b5dee876774dbc3ff0a0a5af223a236697dadf1"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/zh_CN.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-4da7714601d6feb69ef4a26c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ca74b6b72108564ca8a98fa305f95c1152e823a6f4d5b86229cd017f4035182"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/zh_CN.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-c84ed6a0488eac10be714596",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cde818221205c2d7496bcee68d39646a5c984b3df52eb9e18b03560c90cfa815"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/zh_HK.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-4835a1390ba456604d254655",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e78a20cd3bec8093a5e1a496210473473932d5375d9869696a64cb84730959bd"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/zh_HK.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-ccd59cfa18edd0c3e233610e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00a12f6048bc14665b6d89e1a6bda7a9e516ac141a8fbc098e8f3f2a3103d54d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/zh_HK.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-320e59a042d6df5bde279534",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8dd981f629eb2547f53a662656739148c7ddcf9cf5496981b5dbf7f48efbe8ae"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/zh_TW.lproj/SUUpdateAlert.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d202ad356c98e724f90607cc",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e2d08b64a29c36e389d6ea7522015751e129eece54e413811870b5119332ae11"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/zh_TW.lproj/SUUpdatePermissionPrompt.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6a884d35083ce93c71e3b2e5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "361af120ed3571025c9263a812111b43bdf2d91704cbc76b5c21c3becbdc2c4c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Resources/zh_TW.lproj/Sparkle.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d292d2c6c96da8cb490e966d",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2729bdcab2aefc175147302f16be7f951f82f3b80f86b0f05dfaa3c887b560dc"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Sparkle",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b372ee72408ad90b818bb0c8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "99dceb5eb095c2c8f62e7a34b0275ecf164af603426cb38b4f6cba4dc18aad57"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Updater.app/Contents/Info.plist",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-1289fa86c37221eaedaea871",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2b373a5497aef4ad16d73001c64c63f9bab3199e701689c886f5cc7531119c14"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Updater.app/Contents/MacOS/Updater",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3f9fd2c513201e7d462fc8fa",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Updater.app/Contents/PkgInfo",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3dc2dc1fec124f1a76316bff",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "79e7a648d5139506cbc2b8d7a42d607ea603ac42b4964eeb273f6bd0da9cec04"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Updater.app/Contents/Resources/SUStatus.nib",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3ccac6b5c520e365e5715259",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f18d5179d991d3c79266d2295f6bfc8cc243284eb0d3d87ee8f2494ea1a7e8c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/Updater.app/Contents/_CodeSignature/CodeResources",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d53009335665e82986518daa",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "358a270b1f24c28575e914da1f9aafdfb968f6b3ce91e6c60a3a457acc0bedc1"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/XPCServices/Downloader.xpc/Contents/Info.plist",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6f387d654da49dcc684bf7a4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "300c027c4c1e946b0fe6640caf1661e3c23838c3d5ca101d0c89de8a4292cc44"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/XPCServices/Downloader.xpc/Contents/MacOS/Downloader",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-47492132964d48590408fafe",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/XPCServices/Downloader.xpc/Contents/_CodeSignature/CodeResources",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d9f3ea9d8bf05aef82ebfe8c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2260632a25f5fafbd9429ce8fdbc59ed1d0f7147db84917bb37251f376ab3a2c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/XPCServices/Installer.xpc/Contents/Info.plist",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-03acaeca20d7b812645d8d71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73c99ad64e8774804be8424529e3519ee3299525ce1c27eb19a3105a073cc093"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/XPCServices/Installer.xpc/Contents/MacOS/Installer",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f15c966d165eb9123dea0c3a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/XPCServices/Installer.xpc/Contents/_CodeSignature/CodeResources",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-a52d0ee95f418ee71b563a70",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "95c0bebb86d1a2ee943a51a0076593b3e0a46ea17211a85a7e3fe74d1d1c20d5"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/Sparkle.framework/Versions/B/_CodeSignature/CodeResources",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-1e3fb7993a309014bf0ff398",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "668c3aa75adf06ca176d5a1c13cc988d0c417e6e2a8eaaae71d6528500e3d9b3"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/librime.1.dylib",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-5e770eb065b21bab935daa37",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "57c06705c7ff747cf3daa6e3666ff7f7af9b57e546dc09dbd8379b72c01dcfa1"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/rime-plugins/librime-lua.dylib",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-ef0354d3fdd010d7dce55008",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "960d49251229626a4fb82207e8141fe53afb9f67795d96e3c1520c0be4c678c8"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/rime-plugins/librime-octagram.dylib",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-88929b89901ae2100aa59994",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3ab69c39f9f56a131727088611ea6fd6ffd19a1ff7c538f9dc352e14fffd6447"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Frameworks/rime-plugins/librime-predict.dylib",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d79c266d8af9c63b03c1ff66",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "76305ac3456d0e38947030d4eda44e6f117ac6d7fa84faa408074b8eea26001a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Info.plist",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-bee2eb9878a33da4d48471b2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b5e4371ad840f7733faf376c07f3e6c3d860b41ccd76cb2bdc13a80c91a4a507"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/MacOS/Owltype",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-39ad87d650d3f366874c8ac5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d8f0fe0c3bf968ee18ef6bd20ec2824f4d32e18d3f3ff421cbe9f169724f701b"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/MacOS/rime-install",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-2d1a73250e0843e6a7df674e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "83baea738f00b6152213cbcf1207268d1499dd8bc780c906bb39591737d0d18f"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/MacOS/rime_deployer",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f26c9e4d0c0c031371e3a4cd",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3945a13a05a23df28eaadce5dd25fa98b65428b9ccdaf33ec4c50aaff311209a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/MacOS/rime_dict_manager",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-441a12e3e00648c62bedd326",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/PkgInfo",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6cdeb4845335976f4ac86de7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4502c81204900cb67022f98143de71f41bc9c6f3b26723424d00b58c4cefaf41"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/Assets.car",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-2525a2eba972447b0ced05f2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/LICENSE.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b6f68bdbb2de63298f09de6c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c65ffff09a95f60631e113955f8c1b96c7dc0af4d243f3d9360d81f8fcc9467e"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/OwlMenuIcon.pdf",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-38c50f68b38e532dcde125de",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "71b442039610e037c363a92a05bf0a4ceaeea0a7f4d96e411de0c3468c50002a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/Owltype.icns",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f1e992562aba56c434979026",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "10cf4ea59f1a6738168dd96296388829a30ea691320168b94ef44e8a76df3f8c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/README.md",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-35de014d1d203f1edc41b138",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "78babcec24fb8447551f9b5ece67042a82fd4ed14deab863d6e8f0619d0d25f6"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/Sparkle-LICENSE.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-c8525ba70cdefb0344236e3f",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0693515d35ae8e04b1ed231de67a3032252628f10f5cd595dad7960c2d20c94d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/THIRD_PARTY_NOTICES.md",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-35cf04deaf8b7acb68b113fe",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "13ee5eeff0bec744813317eb44408ac2a48ad18ea89cc1d870ffa97020b840de"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/en.lproj/InfoPlist.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f7f14507ba88277ba3dacd4b",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fad14853e9a6c49274e95722a44cafa1a3f5d3fbfc4236741542133bfd0a850c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/en.lproj/Localizable.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-7ea9beb929d3e157e948d42e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85a66192cfc1953d2879ad841496ddac9007b292b6a43284defeb42217f40a74"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/zh-Hans.lproj/InfoPlist.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-67bff024f29840bf5546a071",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bd01b3279041f060fca09e651dfd5ab67c2d48b568515793abbc10e657df76d2"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/zh-Hans.lproj/Localizable.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d7857996d226108137a5379d",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "73e8d3a11035fe080c468425b5071201ee06de9581be3025946b3e1576218eef"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/zh-Hant.lproj/InfoPlist.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d12e7fe3d08fd86cf540e4cc",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6ee467211398cf16eeeb0244310b5f860589e4803ef2f63dd4945cae0162392e"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/Resources/zh-Hant.lproj/Localizable.strings",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-8cbaf4567efc006d07d7584e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "467ce5a6ffe2eb6f68a08260c6f0374f4dd5cde0e46376225acaec63bd455c27"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/OWLTYPE-SEED-MANIFEST.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-49edfaa066fd4db9d261255a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f04675de292077f9ab3b05f3584f7f24a49b38305fa88ca5e7cdabfa41471baa"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/OWLTYPE-SEED-SOURCES.md",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f7a8cbb223ab06d526cac909",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b534e465949558eec2597b04f5092b5e161236a68dfbfd04d547592ac3964308"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/OpenCC.LICENSE",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-90edda8d33aada8d32c39265",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a989e12c360ed33cd44d9b8aaa95327ce4e28daf966afbb8f5cd4722b7a72017"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/_user_seed/default.custom.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d0f1c0cdf6f118e0b9eb2b71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa8211c3936878a24333297ffb8ee3fb63b2154f97769b10e201807a27336903"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/_user_seed/owltype.custom.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-33741b6749739131ae9bffc4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6ef0920bbac2f115bd2254a3df4dfdedf5d774045c42e3e793cdf845585834f9"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/_user_seed/rime_ice.custom.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-5520174f2b18c008fdd27ad5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "54e5269936b5f8e18796db00fc307501efc44094848961a2146363af003cb724"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/cn_dicts/owltype_base.dict.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-eafd087b2b2a9b30f0926716",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b8e7e724d204e83179336ec0a6d9d88c6343b4e3965784c7237eba58f3712400"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/cn_dicts/owltype_unicode.dict.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-0bc2c90eb403f7e970ef1722",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dd344d785f7244c79fee1a1601cd7f928fb3cce8dad66d3e1dfa4962ba59b0d7"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/custom_phrase.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-48ca5e46564f10fde60f80ee",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0dacfbaca4774c07a0adb2ca2380dc290ada5dfb97e027d54063790ebaca37cd"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/default.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-69ed29ed8584314942d29f74",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "18ba0984839f85853b29fadaf992f7dba8fd0ca0fbeae34de2b8735222dc7a37"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/jieba.LICENSE",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-7ef8a7e99dd0863e18cc6e3c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c6bd4f58b13ae9d45c5e53adddeea5049114a25862797c6c6f64920431eea249"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/librime-lua.LICENSE",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-709f120780df7cc75bbbd100",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f67d27a6d2d586fcfed4b4c886a83747095396a39b6641e18e855086be2ec400"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/librime.LICENSE",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-32d9a26766f011c2117a66b5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/licenses/Apache-2.0.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-0572568844caaa545363a643",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5a93d5831e1297ab10fe643e1a631e83be392896da14ee2951285a79012df69d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/licenses/BSD-3-Clause.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-565a0a3b711c7f415c6654eb",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e6bc9e9c474700b708f568bac9e5a8a9bcb2b1dad53442f5ba449fcb848b8e76"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/licenses/CC-BY-3.0.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-802d7a99ac92f82102c4f4b2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fb981668c18a279e285fc4d83fba1e836cc84dd4daa73c9697d3cfd2d8aca6e0"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/licenses/GPL-3.0-only.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-40195db6912175b8161215f6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "996af0513df21f7496288951c41428a03c174e9e4a9d63665c57d670f845ccb1"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/licenses/LGPL-3.0-only.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-00c86736714f12db20c442b7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/licenses/MIT.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-088a8da82920b1a4008407a6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f7db81051789b729fea528a63ec4c938fdcb93d9d61d97dc8cc2e9df6d47f2a1"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/licenses/Unicode-3.0.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-cbe04e67f9f27867a538bd21",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8b1cb8d836d0e544cc63278f31ab0c6e32a877083972535aa88049b4a6b37663"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/autocap_filter.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-29df5966baa611b445cdab46",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "590aab2de4527e9c0832f872d676b8951871104b29b95f258392269cc9e1e4ee"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/calc_translator.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d40522a703b562f8bd3efdac",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5e90e53872c749c7ab212dce8a741a09db4c9fe3c96e7746e7c847723e79cf62"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/cn_en_spacer.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-fb3c185044a55ea4e86d1a6c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c54cc787cf23a28321b42e256a094c4aadbf27a836f9852ea7b8a48e433ee591"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/cold_word_drop/drop_words.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-258fa217bb0056fe607724c8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cb862d048c0b670a22b329992efe436d5e9107bf24d83f6d5f00213139ad5e82"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/cold_word_drop/filter.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-2ef6a4fe5886bbd268e3d81c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "26df6ed82bbc646e29aa647be35df9076f6195e520489ccd9022dc081a02cb30"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/cold_word_drop/hide_words.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-108b862cee5e3c3960e7c174",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f4be75968364390d7d48bb83b789e4834f9b3f8cd577fb0caac7a00ea1eca312"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/cold_word_drop/logger.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-adddd7eb9913cb76f2c2186a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66d88f4d9dc0bf7c37e8f5ca9ab3c237ca995a28468c53f57cc3aa3937b798cb"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/cold_word_drop/metatable.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-db723729839c47f8308f3ec9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3af3de687ad7feba4e9f49e7b2768e9137d1447bbeede7f81f8c10206c0747f0"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/cold_word_drop/processor.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-416c0ecc891c42e280a18bda",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2124f57446510ceae3ed5f8383237fdcaec68e54cfd0d66218b14f4f011872ca"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/cold_word_drop/reduce_freq_words.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-80bc5bcdbcd17bcb3584dae7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a84155b7fe1e6f3f1eed6cfa89efa3b72536d37d37f8b47674cdc4472a44ab16"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/cold_word_drop/string.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-ff43a5cfdd26c38d5c391f0b",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "858f0fad1b9d2fbe1f065f1015e32699ec32e174bb14d80ba88c45614ad616f0"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/convert_ar_num_to_zh.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-c36928f4b744965e78936977",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d67dc58716925ea253e19817dbbd3e97b391c34d8d4431cd6e4d138f1f6e4e73"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/corrector.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f7806b4af44f02b08a0e5068",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "025de762f549b2b1a922f695a0f6b196824092455090a6e143c3d4c15ba56712"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/date_translator.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-c270ba279f150ff23b652551",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "833af467f40a6c84332788ae0e8ab18b761da5d81972b6f35492f5ec6ce15a65"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/debuger.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-236a241f61e2d0140df91ade",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8bcda9df7bff13a69d429fc4119db3532a7aeb2360dbc0a401937f2c3c6231d4"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/en_spacer.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6c087a02a96c55b51ab358f5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "bdffdf8342eb2167343de3a3cc5529ccfdde13afc0ea0dac3f917419eba0f382"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/force_gc.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3c1c5a5ea7f9cb42e27414d0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "78c0c16daa3fdfba6de0d358487e4377277d2245f536807c363610d8a954c7f7"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/is_in_user_dict.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-39ce757ad1c26a6d9ec84ca6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f024cec6fe1a0e3396eac7450dc41f8e6df13c6735ba64615778e3416dcfcd81"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/long_word_filter.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-930b88b5354093fb6e583aee",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30e66ebc3c7223397f2d98368e159ae6d636571056bbe6885f1fcafad56ad1c9"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/lunar.db",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b22d16ad80b5d966f22badf7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "27e7c5bfa1e872e4e03a7218a3f7e8c02aab41eafe043e96a6f376b6cddc134c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/lunar.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b0fe4ae6e368523629cc9ffd",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2855c8fe23631d5951ece17759dbf24563d21a3156cbd2a579395daa354eb207"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/number_translator.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-a65d659ead6295af435ae290",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e276c252380dfea558fefc99d6f07578050bd2a45e82e4dd51ee4444eed251cd"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/pin_cand_filter.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-2be9ab437d735a49d676e00f",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "cf7fc268192c70fb1411942c067773e0cabcde6a9c2282a252baa148253970f3"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/reduce_english_filter.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-e8225f1b41e5d0761cc9125d",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "30d4619ab5c636185d5ea28d8ed5f3a7b56292112905096bcd76e717b757bf82"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/search.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-9201a363c48f505b109c2af1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "51e9975cf23ef42845c763957532b0ca1c8241713204457bb0497db98dbc610e"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/select_character.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-a2488ed8dcede99e0d62014f",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9b69b73950ce23fb2e225263bcf19792cf2faa28a42162fcb6c2c11416123a53"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/t9_preedit.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-aef227369b87ac651b38d4fe",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ce41d6f27703c78f3fcb814a08af6307a2b9b0c97e63e9fc3cafb1c65befaa7d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/unicode.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-117e461e16d632d1f0c67795",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85a950bc871096f4f70bc1f935540f01944536a7e818d30c5eb3d0a71a7900e2"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/uuid.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-9a46f171980e7ee84a02ff29",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3d1f9a1cda532e0c0eab9b774d727ab37c2a9e468e1219407c5c8fadb964b2e5"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/lua/v_filter.lua",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-fc0f884e59f77c495eecd1e4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "62750cb79eef18a407030b05bd4abe0e102bec2254d04b2d2310792f44519321"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/HKVariants.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-a78a51df67a2cd539230f376",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "87d4483565860dc96ea5af26f0716864966c4600cc03d5dde73b9487d826021a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/HKVariantsRev.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-417f83094e37fb3a4edd4106",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "0fd9bc1f9e9250224b0737e320a850fc630f37b7c475a1dcb1081416ade13efa"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/HKVariantsRevPhrases.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-2fb3fc2f6cba7affc5f2d17d",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "970d1ff54460ed4ef3c0e7dab7cd176c917ded0aaeef4299e77de32d94995914"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/JPShinjitaiCharacters.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-878d01bd24051851c921cad8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e3d06b628271327797fa57528a7eef8830f4a1f153e1c5a588f89d77831f7259"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/JPShinjitaiPhrases.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-e7d30e60231d05bb0c6bc2c1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "384c073d6a53bbeed6016c5a5d54cc4ab209163288b0a61b0276e4f0797f7462"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/JPVariants.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-e0f158ea7ea2b58049199e25",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ca3f4ec8ff7178c8314d30c18d9f0eacf9b531337ab2545df8e277fae3fe234c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/JPVariantsRev.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-30a34305c06c3403b062fe36",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1ec2298310ca5a9151a554ea57bd86a6296ce917e4cdd1dd0884f789c477641b"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/STCharacters.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-93fdf0a66a8a647463977ec5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "74399d1754ba9d174e8ad7047b2714ec95253d213e74a7a71f890c00d90c0e2d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/STPhrases.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-50c0e498b75143bc0a3e0ba9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "85291e0173e972bbca58c848fb90b3bb41c79674cb61a75645e01bd884ad5927"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/TSCharacters.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-299633e1e9c140a91a080909",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eea69e525e01b8475a1b1ad45f78f25e5aa78986305f185ef6f85e11f5325387"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/TSPhrases.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-23af60b9a88c64131dccc628",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5053d76b38b3ed0758411f7a062f698217bdb24d3fe92ebda371071cbe615f62"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/TWPhrases.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-557f911055a048a8fc7ac503",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "01c81982f2871361ce11b8cca4f9a3539f1b6e1f28de254dedef6352a0b5c26d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/TWPhrasesRev.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-fb9be3060f90c0eb37cd0c2f",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "390f07a1867ad56aa60a7af23b6e4b3acc96ea48d893c06ede3dffb1c576c2bc"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/TWVariants.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-749ab8b566004950d7aa4208",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "663471398c79400db4485df5e92b709ac174c5e393f4fe0e3d5b02034024d609"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/TWVariantsRev.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-65e9b7faa1964fa8e68e88d2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ea51dde3e45fdaf9349473ae19b3567fe5da59b01aeff2f4e9eae50c9baf2c24"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/TWVariantsRevPhrases.ocd2",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-442cb99522e2230483951e82",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "79fe3b878625d8f96d70aeb6c4d1929ab2a582f8b935d309125b6ccffd799602"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/emoji.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-7e9fbe2ea1c6ea6d461c3831",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f3e13962289eedccbe92f6d4c5df97db03357c5ad94abdad3d5910aba556705a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/emoji.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-cadef7acfe13ac35445f17a9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "eb651448d8b536d6131e53e254e8ca2c158c9ced50fd55ee88a76e606dd32efa"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/hk2s.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-e0d720b1b9d5b0ae2eb9c685",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1e5df53815d42a9ff5a1c6333b3987c072e27a27376d33f1864dc7b302751bb1"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/hk2t.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-35b4f8b5e84e36734c856bc4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3f9b091520ba0d55ecfe6fca719a672bb2691b1eb9b0c0a43a4aa4326b15fd9e"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/jp2t.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3cf2d7a13a2fc657907603c2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9595273a49139e1184bca0f1923660793b3873d7b4996d0a5dd665e777d4e55c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/others.txt",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d1d3063f04de2703cd538f23",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3708e756ea01783e9cf6b3cce527580810b3d539b8c7fcc3594dd1517aa05bff"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/s2hk.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-47ea05e8a1df827042aaa12a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "710bb970e406d9c0a3dd33c609248686cf1c5578d064b7b7fc89e70fbb9ea75d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/s2t.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-4eb738a26e4c8f154af67c15",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "67ce1f5aa3d6b21ebb523084b40e66f80bec27bb2dc6b540d44dac2e27f7194e"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/s2tw.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-b908ebff7b8e8210166e8cf1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "72d187574510542be608c862d5359d29480ee61f137082df8a06d74f7bcfc79c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/s2twp.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6b26fdebd503c21fcbc18cfb",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a8531beb7430fe1afed0294a893af529c7b7fd2ad41567b5daccb8399c8ef2f0"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/t2hk.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-87cc10455c3fb8435a426f5b",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4fb22429d63173715fec30524111ec141c0577b66c9f090513ea8bac4741ad77"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/t2jp.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-4dc5f340f4641078d5addf00",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b818534194f27c2d95f01001edb0a5ec49b9050119892cb30a0504bb202cc07c"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/t2s.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-9e25cd00ac861c8cc5f2706f",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "11495bf144cd932a9568810822a5af0fbba2db9c2e06a2bb2871583423fac24a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/t2tw.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-6a4b3a949eca250db8bfdc29",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fd3e758691a87c9246d081612021c7f9186ce7abe845cd4eff3e7326c300434d"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/tw2s.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-d3c3bd7aa8e649fd7215b901",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d107837817e7704cec83a9ff7b876c289eb0ae752722c790c9bf967509c9eaa6"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/tw2sp.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-f5ea8152529b5e0499e17f71",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "046fbdf089388d11d51e5ac415e82564ff71b6e9add008cce7488e845d798c57"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/opencc/tw2t.json",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-022acc07af97dbf14d54bad1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "83bd8569c383796df96f2f781079a9e9c3d24fce606ea8af53ebf5091661f143"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/owltype.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-cfbfce1f540865f54e2e5bb7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89ac55df747e4776088c3e77531ef61b973a1a59dd8e6a4548a58996da9a4f70"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/phrase-pinyin-data.LICENSE",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-bb40a3dafae228201140d9e6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/plum.LICENSE",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-8bb535994101cc4e19af513c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3fddb596e5bbd3c9997fbf1d382819632c5ed3d22d58a16bf100e97fe05dae14"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/rime-ice-Credits.md",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-4717d612d989207237d7da1a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/rime-ice.LICENSE",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-5da00f5decf93a6688122133",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ced0f89037f3a0d2f3f03dbea5b487b7f550d65341efd0e844e78c63e7aae096"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/rime_ice.dict.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3e9f25cfb333079ad7f02448",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f2b777f7ee841fced37a33d380921457f8e02a6bc8b0da0143f1e5a08be34902"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/rime_ice.schema.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-871fa019c453e4cac9aec23a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1423988324bd447535810f0dbcbc71b228eef821be2c122511707c0c7d4e684a"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/symbols_caps_v.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-fd6cda875ccad143ec715a7f",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "00aa27e61b8cb886b048561cbe353997cbd183a8c0b37fcc9f0439b89e80c4be"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/SharedSupport/symbols_v.yaml",
+      "licenseConcluded": "NOASSERTION"
+    },
+    {
+      "SPDXID": "SPDXRef-File-3d073ccf198b1975ec35d4cb",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5abc350a49550185c2d8df1f12f465e086eb89bf3723b258050bbb2db31f4b39"
+        }
+      ],
+      "copyrightText": "NOASSERTION",
+      "fileName": "./Contents/_CodeSignature/CodeResources",
+      "licenseConcluded": "NOASSERTION"
+    }
+  ],
+  "name": "Owltype-2.0.19",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-Package-1",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://responsay.com/owltype/",
+      "filesAnalyzed": false,
+      "licenseConcluded": "GPL-3.0-only",
+      "licenseDeclared": "GPL-3.0-only",
+      "name": "Owltype",
+      "versionInfo": "2.0.19"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-2",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://github.com/rime/squirrel",
+      "filesAnalyzed": false,
+      "licenseConcluded": "GPL-3.0-only",
+      "licenseDeclared": "GPL-3.0-only",
+      "name": "Squirrel-derived frontend",
+      "versionInfo": "4db2c85ac639c229e14fd9424f79c3c4f97ce478"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-3",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://github.com/rime/librime",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "BSD-3-Clause",
+      "name": "librime",
+      "versionInfo": "33e78140250125871856cdc5b42ddc6a5fcd3cd4"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-4",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://github.com/hchunhui/librime-lua",
+      "filesAnalyzed": false,
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "BSD-3-Clause",
+      "name": "librime-lua",
+      "versionInfo": "ec52e48ea18f11af37717a01c337f853215cf70b"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-5",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://github.com/rime/plum",
+      "filesAnalyzed": false,
+      "licenseConcluded": "LGPL-3.0-only",
+      "licenseDeclared": "LGPL-3.0-only",
+      "name": "plum",
+      "versionInfo": "b1be1969f914cc005add4090631b855db00c2591"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-6",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://github.com/sparkle-project/Sparkle",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
+      "name": "Sparkle",
+      "sourceInfo": "Official upstream pin with Owltype application-relaunch.patch SHA256 8717ddf911ba2c2bc1a885ce700dc2145fd81929739d5f805d45405af852c0fd",
+      "versionInfo": "41847a58cdef7506b257591fcca6f9495df591d4"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-7",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://github.com/iDvel/rime-ice",
+      "filesAnalyzed": false,
+      "licenseConcluded": "GPL-3.0-only",
+      "licenseDeclared": "GPL-3.0-only",
+      "name": "rime-ice configuration",
+      "versionInfo": "b681a34f788795034b3b288830f4861980bc8b0d"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-8",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://github.com/fxsjy/jieba",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
+      "name": "jieba",
+      "versionInfo": "v0.42.1"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-9",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://github.com/mozillazg/phrase-pinyin-data",
+      "filesAnalyzed": false,
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "MIT",
+      "name": "phrase-pinyin-data",
+      "versionInfo": "cee0ed6e6e4898580cafd2bd5e3723e20b214aa0"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-10",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Unicode-3.0",
+      "licenseDeclared": "Unicode-3.0",
+      "name": "Unicode Unihan",
+      "versionInfo": "16.0.0"
+    },
+    {
+      "SPDXID": "SPDXRef-Package-11",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "https://github.com/BYVoid/OpenCC",
+      "filesAnalyzed": false,
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "name": "OpenCC",
+      "versionInfo": "556ed22496d650bd0b13b6c163be9814637970ae"
+    }
+  ],
+  "relationships": [
+    {
+      "relatedSpdxElement": "SPDXRef-Package-1",
+      "relationshipType": "DESCRIBES",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-2",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-3",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-4",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-5",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-6",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-7",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-8",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-9",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-10",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-Package-11",
+      "relationshipType": "DEPENDS_ON",
+      "spdxElementId": "SPDXRef-Package-1"
+    }
+  ],
+  "spdxVersion": "SPDX-2.3"
+}

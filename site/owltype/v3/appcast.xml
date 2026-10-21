@@ -8,20 +8,20 @@
     <description>猫头鹰输入法 Appcast：Sparkle 自动下载签名+公证的 Owltype-update.pkg，并在 macOS 授权后安装（无需注销）。</description>
     <language>zh</language>
     <item>
-      <title>Owltype 2.0.18</title>
-      <sparkle:version>2.0.18</sparkle:version>
-      <sparkle:shortVersionString>2.0.18</sparkle:shortVersionString>
-      <owl:releaseCohort>b689ab51bdc0aa346565ad68cfcf482f71efe88c3aae18cd00927f73bcbd342c</owl:releaseCohort>
-      <owl:updatePackageSha256>a0d915826e8d83448da941f0739711a324880390e6cfca7c3ecaceed45665a1b</owl:updatePackageSha256>
+      <title>Owltype 2.0.19</title>
+      <sparkle:version>2.0.19</sparkle:version>
+      <sparkle:shortVersionString>2.0.19</sparkle:shortVersionString>
+      <owl:releaseCohort>934351d928800f74e6b4ecd4943e0eaf3e5c5553cf9385fda6534d02b717872c</owl:releaseCohort>
+      <owl:updatePackageSha256>56224ae5acb600a26b731b239cb10bbaa8fb2081ba78222d3de8dc78973b40ce</owl:updatePackageSha256>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
-      <pubDate>Wed, 21 Oct 2026 15:19:13 +0800</pubDate>
+      <pubDate>Wed, 21 Oct 2026 17:16:09 +0800</pubDate>
       <sparkle:releaseNotesLink>https://responsay.com/owltype/</sparkle:releaseNotesLink>
-      <enclosure url="https://downloads.responsay.com/owltype/releases/2.0.18/Owltype-update.pkg"
-                 sparkle:version="2.0.18"
-                 sparkle:shortVersionString="2.0.18"
+      <enclosure url="https://downloads.responsay.com/owltype/releases/2.0.19/Owltype-update.pkg"
+                 sparkle:version="2.0.19"
+                 sparkle:shortVersionString="2.0.19"
                  sparkle:installationType="package"
-                 sparkle:edSignature="sbUPQVsjdC0kbdTFSotCxXgTjkhCK5LPXThxzzM5gSA8lD6nBxcrW5XnRKnjYjTbY0k9cmRN6GE0cOo1nkLwDw=="
-                 length="15188983"
+                 sparkle:edSignature="yvgb9abNKfBL4tVPm+zN/rrofQZ8S9vraqktv4B7YGIv+HFfX0/uxgP9EWVTYLcw1gJZ5JfCES4vlnjL/1uKDQ=="
+                 length="15237942"
                  type="application/octet-stream"/>
     </item>
   </channel>

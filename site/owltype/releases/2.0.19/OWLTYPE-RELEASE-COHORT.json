@@ -1,0 +1,67 @@
+{
+  "artifacts": {
+    "app": {
+      "base": "outputRoot",
+      "path": "Build/Products/Release/Owltype.app",
+      "sha256": "f231b34ce808b3774c354c3de23b71ccaf30b0c63b82ceaee2b3d7720e65514f",
+      "state": "stapled"
+    },
+    "dmg": {
+      "base": "repository",
+      "path": "package/Owltype-2.0.19.dmg",
+      "sha256": "c2d1151657bf15ef377ac7e2e586b28f297f1453f3e849d4fd7100c1a249ff4c",
+      "state": "stapled"
+    },
+    "installer-pkg": {
+      "base": "repository",
+      "path": "package/Owltype.pkg",
+      "sha256": "203dd65c3a7924e16eb697bb070b9f9ac1ccc4a9c829a4b9d1c00d0c5eacb0f8",
+      "state": "stapled"
+    },
+    "update-pkg": {
+      "base": "repository",
+      "path": "package/Owltype-update.pkg",
+      "sha256": "56224ae5acb600a26b731b239cb10bbaa8fb2081ba78222d3de8dc78973b40ce",
+      "state": "stapled"
+    }
+  },
+  "buildAppSha256": "9aeb91d07c6c69be4473d06d2543e63e8c06e109f982a0c5b1d126bb774b1f7f",
+  "buildVersion": "2.0.19",
+  "cohortId": "934351d928800f74e6b4ecd4943e0eaf3e5c5553cf9385fda6534d02b717872c",
+  "inventorySha256": "d8e11b44a13f98fa24aaa47cbebac5cb7749043c975e9978c52b7dbb0ab3b035",
+  "outputRootSha256": "34e3144b3a2f74596582d8e47b50f681d97e37f1d2cb0ac9294079b3904759d6",
+  "outputs": {
+    "appcast": {
+      "base": "repository",
+      "path": "package/appcast.xml",
+      "sha256": "1df90005480196e3a4ccbe3bf825fa2aaa0f7816ce078324697a357a3001530b"
+    },
+    "source-archive": {
+      "base": "outputRoot",
+      "path": "release/Owltype-macOS-2.0.19-source.tar.gz",
+      "sha256": "1182a93f91e9d09f672ab87e93419fbf725cc4e79b60683c26a86bebb328f5ef"
+    }
+  },
+  "revision": "6c43cd7c7775549cecec2d6bc70009bccbb275a9",
+  "schemaVersion": 4,
+  "seedSha256": "caa5fcb2821a8969ef134250c1b71f716cd77c5247427e05e4679d54e94134ba",
+  "sourceSha256": "2222725acb16bb610b225be884bb1fc0d4f50b197dbf4148a36e0ab164c0f6f7",
+  "sparkleFeedMode": "successor",
+  "sparkleSigningPublicKey": "AyX1IlXNOqRparvq+MKIsNOPRdq8qoB+nZH6JavAlQM=",
+  "status": "complete",
+  "submodules": {
+    "Sparkle": "41847a58cdef7506b257591fcca6f9495df591d4",
+    "librime": "33e78140250125871856cdc5b42ddc6a5fcd3cd4",
+    "librime-lua": "ec52e48ea18f11af37717a01c337f853215cf70b",
+    "librime/deps/glog": "7b134a5c82c0c0b5698bb6bf7a835b230c5638e4",
+    "librime/deps/googletest": "f8d7d77c06936315286eb55f8de22cd23c188571",
+    "librime/deps/leveldb": "99b3c03b3284f5886f9ef9a4ef703d57373e61be",
+    "librime/deps/leveldb/third_party/benchmark": "bf585a2789e30585b4e3ce6baf11ef2750b54677",
+    "librime/deps/leveldb/third_party/googletest": "c27acebba3b3c7d94209e0467b0a801db4af73ed",
+    "librime/deps/marisa-trie": "3e87d53b78e15f2f43783d5e376561a8c9722051",
+    "librime/deps/opencc": "556ed22496d650bd0b13b6c163be9814637970ae",
+    "librime/deps/yaml-cpp": "2f86d13775d119edbb69af52e5f566fd65c6953b",
+    "plum": "b1be1969f914cc005add4090631b855db00c2591"
+  },
+  "version": "2.0.19"
+}
