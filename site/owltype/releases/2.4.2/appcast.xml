@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:owl="https://responsay.com/owltype/release-cohort">
+  <channel>
+    <title>猫头鹰输入法更新频道</title>
+    <link>https://responsay.com/owltype/</link>
+    <description>猫头鹰输入法 Appcast：Sparkle 自动下载签名+公证的 Owltype-update.pkg，并在 macOS 授权后安装（无需注销）。</description>
+    <language>zh</language>
+    <item>
+      <title>Owltype 2.4.2</title>
+      <sparkle:version>2.4.2</sparkle:version>
+      <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
+      <owl:releaseCohort>52722377879c1be3767dd38f7700a853f32421730a0d875ccd82e6f733fbb8b7</owl:releaseCohort>
+      <owl:updatePackageSha256>33924962b6ef916988266b9e7c7a1591af84b526ead3e5e248e67fd5d6944360</owl:updatePackageSha256>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 08 Nov 2026 18:10:58 +0800</pubDate>
+      <sparkle:releaseNotesLink>https://responsay.com/owltype/</sparkle:releaseNotesLink>
+      <enclosure url="https://downloads.responsay.com/owltype/releases/2.4.2/Owltype-update.pkg"
+                 sparkle:version="2.4.2"
+                 sparkle:shortVersionString="2.4.2"
+                 sparkle:installationType="package"
+                 sparkle:edSignature="KKinp02b4JZVdiCvo6//FjNlCIqUSVCKzLZYoDWwMLX+2OxnRmzJ994KIX76nIon9FsOiiYC8qJNgYHU0MdJDg=="
+                 length="160182786"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
