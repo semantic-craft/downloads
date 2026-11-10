@@ -1,0 +1,56 @@
+{
+  "artifacts": {
+    "app": {
+      "base": "outputRoot",
+      "path": "Build/Products/Release/Owltype.app",
+      "sha256": "1825fa5024b31df8de279a3990d1b695287502daa2e54e9066e531301dc280f4",
+      "state": "stapled"
+    },
+    "dmg": {
+      "base": "repository",
+      "path": "package/Owltype-2.5.0.dmg",
+      "sha256": "2d67c364c4c8be496c570686d7f9f1d7d7ea0a9ea89e986fee5609e2d9c26d4c",
+      "state": "stapled"
+    },
+    "installer-pkg": {
+      "base": "repository",
+      "path": "package/Owltype.pkg",
+      "sha256": "78b3c79f10a3d3f95027279d912dcb50028c3c2ccd852d259d124d89cbdcb4c4",
+      "state": "stapled"
+    },
+    "update-pkg": {
+      "base": "repository",
+      "path": "package/Owltype-update.pkg",
+      "sha256": "5b53800f5ba53dd8c4d56c99c619101c0a25c7d31e5b5f738ced0bdf564637b2",
+      "state": "stapled"
+    }
+  },
+  "buildAppSha256": "8dccb2ffaf3834fd000fc0b8cc7b451724bbdcf26db90e1779cd11dfb41beafe",
+  "buildVersion": "2.5.0",
+  "cohortId": "f3b1d8b95090a63baa32f82e56efbc3d714ce2cd5cd92787114d137be28828a6",
+  "inventorySha256": "d334fea4c2ecb293880b70aaf47af2d4b8b2a69eb9460ac509a9a1aa02910554",
+  "outputRootSha256": "19f3c25cc5af2b352af9320b7778a7c0500837a6b09cb092278585eb21f60db5",
+  "outputs": {
+    "appcast": {
+      "base": "repository",
+      "path": "package/appcast.xml",
+      "sha256": "d37b8339c1a4c222b3fea3c73db2dc937d13c6f1fb2c9b57b88cc5cdcc7576d1"
+    },
+    "source-archive": {
+      "base": "outputRoot",
+      "path": "release/Owltype-macOS-2.5.0-source.tar.gz",
+      "sha256": "461c33df90bbf6ca399eced3836934fcbc06fd5d36a90bd864678b67100676b1"
+    }
+  },
+  "revision": "f6eec124fab4d8ddd2500c426aa8fe267de93851",
+  "schemaVersion": 4,
+  "seedSha256": "c551b1bdc0710db16ff1eec4e26aa977b5a54b66eb8084ac891cadd0397b0e37",
+  "sourceSha256": "f18bfefc611ee4768cc10c7a2f8eff77e292aae27c2af499b3a224ee0f434c09",
+  "sparkleFeedMode": "successor",
+  "sparkleSigningPublicKey": "AyX1IlXNOqRparvq+MKIsNOPRdq8qoB+nZH6JavAlQM=",
+  "status": "complete",
+  "submodules": {
+    "Sparkle": "41847a58cdef7506b257591fcca6f9495df591d4"
+  },
+  "version": "2.5.0"
+}
