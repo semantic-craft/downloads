@@ -8,20 +8,20 @@
     <description>法墨输入法 Appcast：Sparkle 自动下载签名+公证的 Owltype-update.pkg，并在 macOS 授权后安装（无需注销）。</description>
     <language>zh</language>
     <item>
-      <title>Owltype 2.5.2</title>
-      <sparkle:version>2.5.2</sparkle:version>
-      <sparkle:shortVersionString>2.5.2</sparkle:shortVersionString>
-      <owl:releaseCohort>e772a34a939641a40b1d972d85fe809e6437b9de84105362df6780ab1b210950</owl:releaseCohort>
-      <owl:updatePackageSha256>2b5bab1e85eebc7739b36d6edfa1dea2f0483559ebbbf9508173b127e69c425b</owl:updatePackageSha256>
+      <title>Owltype 2.5.3</title>
+      <sparkle:version>2.5.3</sparkle:version>
+      <sparkle:shortVersionString>2.5.3</sparkle:shortVersionString>
+      <owl:releaseCohort>39b32689a1175ffb33ca5fd88f463a9f057ccc365d46523f2ee60288f5b894a2</owl:releaseCohort>
+      <owl:updatePackageSha256>75ebe901e623e16a2862a0d835d5f933e8b9451529c70323306080cade0580d5</owl:updatePackageSha256>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 13 Nov 2026 19:39:31 +0800</pubDate>
+      <pubDate>Sat, 14 Nov 2026 08:48:38 +0800</pubDate>
       <sparkle:releaseNotesLink>https://responsay.com/owltype/</sparkle:releaseNotesLink>
-      <enclosure url="https://downloads.responsay.com/owltype/releases/2.5.2/Owltype-update.pkg"
-                 sparkle:version="2.5.2"
-                 sparkle:shortVersionString="2.5.2"
+      <enclosure url="https://downloads.responsay.com/owltype/releases/2.5.3/Owltype-update.pkg"
+                 sparkle:version="2.5.3"
+                 sparkle:shortVersionString="2.5.3"
                  sparkle:installationType="package"
-                 sparkle:edSignature="egabD+JRQEnF2ypB1kC8agIyPYFRE73dDvZ4LsW+kpQUvPSyThmORnOrrUfZpLwJIAasg9TIbRE7sOSoLgutCA=="
-                 length="164193848"
+                 sparkle:edSignature="4l2sg+BkLcdHoz+F5YguDcc/C6EHobpLnxfqqsUMeo/XrvMwgOVgUQXqVMrvBQIxh5gYHlZB2UTtk8hPVHi2Bg=="
+                 length="164196355"
                  type="application/octet-stream"/>
     </item>
   </channel>
