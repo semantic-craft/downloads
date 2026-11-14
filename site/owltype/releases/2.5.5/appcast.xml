@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:owl="https://responsay.com/owltype/release-cohort">
+  <channel>
+    <title>法墨输入法更新频道</title>
+    <link>https://responsay.com/owltype/</link>
+    <description>法墨输入法 Appcast：Sparkle 自动下载签名+公证的 Owltype-update.pkg，并在 macOS 授权后安装（无需注销）。</description>
+    <language>zh</language>
+    <item>
+      <title>Owltype 2.5.5</title>
+      <sparkle:version>2.5.5</sparkle:version>
+      <sparkle:shortVersionString>2.5.5</sparkle:shortVersionString>
+      <owl:releaseCohort>922973799f7f8341fb065f58cbd1beb9dd98af90798540b997c315e792dcc405</owl:releaseCohort>
+      <owl:updatePackageSha256>6dc6bb1bb5e57ee314af457864687cec71b5bddb8fe91e15c4712a862be8f97e</owl:updatePackageSha256>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 14 Nov 2026 18:35:08 +0800</pubDate>
+      <sparkle:releaseNotesLink>https://responsay.com/owltype/</sparkle:releaseNotesLink>
+      <enclosure url="https://downloads.responsay.com/owltype/releases/2.5.5/Owltype-update.pkg"
+                 sparkle:version="2.5.5"
+                 sparkle:shortVersionString="2.5.5"
+                 sparkle:installationType="package"
+                 sparkle:edSignature="BUuCEpLOIBQRATbkApgGqP24unr3eiLhzHvN7bxREI/NXd0wkrM3RWHATzEtVieOSfuodTxITV9byjYS3e5iDA=="
+                 length="161508635"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
